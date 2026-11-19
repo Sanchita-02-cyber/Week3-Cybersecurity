@@ -33,4 +33,4 @@ This repository contains my Week 3 cybersecurity internship practical work focus
 All activities were performed as part of cybersecurity internship lab exercises.
 
 ## Status
-Week 3 essential project modules completed.
+Week 3 – PM1 and PM2 completed successfully.
