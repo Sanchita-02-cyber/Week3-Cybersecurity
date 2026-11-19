@@ -1,0 +1,49 @@
+# PM2 – Password Cracking with Networkwalks Tools
+
+**Internship:** Networkwalks Cybersecurity Internship – Week 3  
+**Project:** PM2 – Password Cracking with Networkwalks Tools
+
+## 1. Objective
+To understand password hashes and password security and explore the password-auditing tool provided by Networkwalks.
+
+## 2. Tools Used
+- Networkwalks Hash Calculator
+- Networkwalks Password Cracker
+- Web Browser
+- Password-protected PDF files
+
+## 3. Work Performed
+- Opened the Networkwalks Hash Calculator.
+- Uploaded the provided password-protected PDF file.
+- Generated and saved the hash values in a text file.
+- Opened the Networkwalks Password Cracker.
+- Loaded the extracted hash into the tool.
+- Performed the password-auditing exercise.
+- Encountered an Access Denied result during the first attempt.
+- Tried the other provided PDF file as part of the lab.
+- Obtained a successful password-audit result.
+- Opened the PDF using the recovered password.
+- Captured screenshots of the process and results.
+
+## 4. Results
+The practical was performed using the provided lab PDFs. The first attempt returned an Access Denied result. A subsequent attempt produced a successful password-audit result, and the PDF was opened successfully.
+
+## 5. Screenshot Evidence
+1. `PM2_01_Hash_Extraction.png`
+2. `PM2_02_Access_Denied.png`
+3. `PM2_03_Hash_Loaded_in_Tool.png`
+4. `PM2_04_Password_Audit_Result.png`
+5. `PM2_05_PDF_Opened.png`
+
+## 6. Files Created
+- `PM2_Hash.txt` – Contains the extracted hash values for the two provided PDF files.
+
+## 7. Learning Outcomes
+- Understood the purpose of hash values in password-protected files.
+- Learned how hash extraction is used in password-auditing exercises.
+- Gained experience using the Networkwalks hash calculator and password cracker.
+- Observed unsuccessful and successful audit results.
+- Understood the importance of strong passwords and password security.
+
+## 8. Conclusion
+The PM2 practical was completed using the Networkwalks tools. Hash values were generated for the provided files, the auditing exercise was performed, and a successful result was obtained. The practical helped improve understanding of password security and auditing concepts.

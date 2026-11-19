@@ -1,0 +1,37 @@
+# PM1 – Password Cracking with John the Ripper
+
+**Internship:** Networkwalks Cybersecurity Internship – Week 3  
+**Project:** PM1 – Password Cracking with JTR
+
+## 1. Objective
+To understand password security, password hashes, and password auditing using John the Ripper and Johnny GUI.
+
+## 2. Tools Used
+- John the Ripper 1.9.0
+- Johnny GUI
+- Windows Operating System
+
+## 3. Work Performed
+- Downloaded John the Ripper.
+- Extracted the downloaded files.
+- Located the `run` directory.
+- Installed and launched Johnny GUI.
+- Configured Johnny to use the John the Ripper executable.
+- Verified that the tool detected the installed JTR version.
+- Performed the password audit on the provided lab file.
+- Recorded the result and captured screenshots as evidence.
+
+## 4. Result
+The password audit was completed successfully. The password was recovered from the provided lab hash, and the result was captured for documentation.
+
+## 5. Learning Outcome
+Learned about password hashes, password auditing, John the Ripper setup, Johnny GUI configuration, and the importance of using strong passwords.
+
+## 6. Screenshot Evidence
+1. `PM1_01_Johnny_Opened.png`
+2. `PM1_02_JTR_Configured.png`
+3. `PM1_03_Hash_Extraction.png` (if saved)
+4. `PM1_04_Password_Crack_Result.png`
+
+## 7. Conclusion
+PM1 was completed successfully. John the Ripper and Johnny GUI were installed and configured, and the password audit result was obtained and documented.
